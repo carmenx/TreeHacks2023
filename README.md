@@ -13,3 +13,4 @@ Submitting a project as a beginner!
 Figma Prototyping!
 ## What's next for TreeHacks 2023: Choose Your Own Adventure Game - Figma
 Perhaps this adventure game will come to you at another hackathon!
+Thank you!
